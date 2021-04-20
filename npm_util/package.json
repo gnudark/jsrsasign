@@ -25,6 +25,6 @@
     },
     "dependencies": {
 	"jsrsasign": "^4.8.2",
-	"jsonc-parser": "^0.0.1"
+	"jsonc-parser": "^0.4.2"
     }
 }
