@@ -24,7 +24,7 @@
 	"url": "https://github.com/kjur/jsrsasign/issues"
     },
     "dependencies": {
-	"jsrsasign": "^4.8.2",
+	"jsrsasign": "^11.0.0",
 	"jsonc-parser": "^0.0.1"
     }
 }
